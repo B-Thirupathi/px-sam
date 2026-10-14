@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Multiple_devices_icon" data-name="Multiple devices icon" transform="translate(-520 -821)">
+    <rect id="Rectangle_3306" data-name="Rectangle 3306" width="50" height="50" transform="translate(520 821)" fill="none"/>
+    <g id="Group_9129" data-name="Group 9129" transform="translate(521 827.999)">
+      <g id="Group_8969" data-name="Group 8969" transform="translate(0 9.398)">
+        <path id="Path_5460" data-name="Path 5460" d="M82.106,367H93.488a4.139,4.139,0,0,1,4.106,4.162v17.8a4.139,4.139,0,0,1-4.106,4.162H82.106A4.139,4.139,0,0,1,78,388.964v-17.8A4.139,4.139,0,0,1,82.106,367Zm11.382,23.513a1.524,1.524,0,0,0,1.493-1.549v-17.8a1.524,1.524,0,0,0-1.493-1.549H82.106a1.524,1.524,0,0,0-1.493,1.549v17.8a1.524,1.524,0,0,0,1.493,1.549Z" transform="translate(-78 -367)" fill="#f5d448"/>
+        <path id="Path_5461" data-name="Path 5461" d="M87.748,384.334H84.812a1.306,1.306,0,1,1,0-2.613h2.936a1.306,1.306,0,1,1,0,2.613Z" transform="translate(-76.314 -362.491)" fill="#f5d448"/>
+      </g>
+      <g id="Group_9127" data-name="Group 9127" transform="translate(48.333 0.001) rotate(90)">
+        <path id="Subtraction_2" data-name="Subtraction 2" d="M8.09,34.8H5.469A5.513,5.513,0,0,1,0,29.258V5.544A5.513,5.513,0,0,1,5.469,0H20.632A5.514,5.514,0,0,1,26.1,5.544V27.432h-3.48V5.544a2.03,2.03,0,0,0-1.99-2.064H5.469A2.03,2.03,0,0,0,3.48,5.544V29.258a2.03,2.03,0,0,0,1.989,2.064H8.09V34.8Z" transform="translate(0 0)" fill="#f5d448"/>
+        <path id="Path_6070" data-name="Path 6070" d="M12.181,3.48H1.74A1.74,1.74,0,1,1,1.74,0H12.181a1.74,1.74,0,1,1,0,3.48Z" transform="translate(32.452 10.441) rotate(90)" fill="#f5d448"/>
+      </g>
+    </g>
+  </g>
+</svg>

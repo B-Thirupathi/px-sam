@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <g data-name="Group 4390">
+        <g data-name="vuesax/linear/language-square" style="opacity:.5">
+            <path d="M10.5 30h9C27 30 30 27 30 19.5v-9C30 3 27 0 19.5 0h-9C3 0 0 3 0 10.5v9C0 27 3 30 10.5 30z" transform="translate(3 3)" style="stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4px;fill:none"/>
+            <path d="M18.711 3H14.1a.922.922 0 0 0 0 1.845h1.384v5.534h-4.567a4.6 4.6 0 1 0-7.66-5.073.922.922 0 1 0 1.6.922 2.767 2.767 0 1 1 2.4 4.151.922.922 0 1 0 0 1.845 2.767 2.767 0 1 1-2.4 4.151.922.922 0 1 0-1.6.922 4.6 4.6 0 1 0 7.66-5.073h4.566v6.456a.922.922 0 1 0 1.845 0V4.845h1.384a.922.922 0 0 0 0-1.845z" transform="translate(6.617 6.699)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>
